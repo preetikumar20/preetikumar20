@@ -4,8 +4,8 @@
 I'm a **Mathematical and Computational Modeler** with a passion for understanding infectious disease dynamics and optimizing drug regimens. My work integrates population- and cellular-level modeling to support public health decision-making and drug discovery.
 
 - 🎓 PhD in Applied Mathematics from BITS Pilani
-- 🔬 Postdoctoral Fellow at University of Washington, focusing on infectious disease modeling
-- 📊 Experience in PK/PD modeling, systems biology, and viral dynamics
+- 🔬 Postdoctoral Fellow at University of Washington, focusing on matheamtical modeling at molecular level 
+- 📊 Experience in PK/PD modeling, systems biology, and viral dynamics, COVID-19
 
 ---
 
