@@ -50,9 +50,10 @@ I’m a **Mathematical and Computational Modeler** passionate about **translatin
 
 
 ## 📬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/preeti-dubey)
-- 📧 Email: preeti.dubey@example.com
-- 🔗 [Portfolio Website](https://preetidubey.github.io) *(Coming Soon!)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/preetidubeyphd)
+- 📧 Email: preetiup28@gmail.com
+- 🔗 [GitHub](https://github.com/preetikumar20)
+- [Google Scholar] (https://scholar.google.com/citations?user=Zgh1g7UAAAAJ&hl=en)
 
 ---
 
