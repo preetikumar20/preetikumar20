@@ -61,6 +61,9 @@ I’m a **Mathematical and Computational Modeler** passionate about **translatin
 
 ![Preeti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreetiDubey&show_icons=true&theme=radical)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=preetidubey&color=blue)
+
+
 ✨ *Open to collaborations in public health modeling, drug development, and AI/ML projects!*
 
 
