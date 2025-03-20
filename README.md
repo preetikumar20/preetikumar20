@@ -1,42 +1,37 @@
+
+# 💻 Preeti Dubey | Mathematical & Computational Modeler
+
 ## Hi there,  I'm Preeti 👋
 
-## 🚀 About Me
-I'm a **Mathematical and Computational Modeler** with a passion for understanding infectious disease dynamics and optimizing drug regimens. My work integrates population- and cellular-level modeling to support public health decision-making and drug discovery.
 
-- 🎓 PhD in Applied Mathematics from BITS Pilani
-- 🔬 Postdoctoral Fellow at University of Washington, focusing on matheamtical modeling at molecular level 
-- 📊 Experience in PK/PD modeling, systems biology, and viral dynamics, COVID-19
+## 🌟 About Me
+I’m a **Mathematical and Computational Modeler** passionate about **translating complex biological systems into data-driven insights**. My research spans **infectious disease modeling**, **drug dosing optimization**, **PK/PD modeling**, **systems biology**, and **public health analytics** — combining **mathematics**, **coding**, and **biology** to **drive healthcare innovations**.
 
 ---
 
-## 🧠 Research Interests
-- **Mathematical Modeling**: Cellular and population-level models
-- **Systems Biology & Viral Dynamics**: HBV, COVID-19, HIV/AIDS
-- **Pharmacokinetics/Pharmacodynamics (PK/PD)**
-- **Public Health Modeling & Decision Support**
-- **Control Theory & Image Processing**
+## 🔬 Research & Project Highlights
+
+### 🧠 **Mathematical Modeling for Drug Dosing Optimization**
+- Developed the **first computational model** to **optimize oxytocin dosing regimens** for **improved maternal and neonatal outcomes** (Python, R, MATLAB)
+- 📌 Published in **npj Women's Health**
+
+### 🦠 **Infectious Disease Dynamics Modeling**
+- Built **COVID-19 transmission models** for **State Health Departments** and **UCLA COVID Behind Bars Project**
+- Developed **Hawkes Process** models to track **COVID-19** spread in **congregate settings** (SciPy, Pandas)
+- Assessed **ring vaccination strategies** and **vaccine rollout optimizations**
+
+### 🔬 **PK/PD & Viral Dynamics Modeling**
+- Created **ODE-based** and **multi-compartmental models** for **HBV/HDV** kinetics and **antiviral drug efficacy** (MATLAB, Berkeley Madonna, Python)
+- Modeled **drug concentration vs. effectiveness** (NONMEM, SciPy)
 
 ---
 
-## 🔥 Featured Projects
-### 📌 HBV Intracellular Model
-- Developing a three-compartment model to study early HBV dynamics in human hepatocytes.
-- Focus: Elucidating viral replication mechanisms with a data-driven approach.
-
-### 📌 COVID-19 Forecasting
-- Leveraged WHO dataset to predict spread and assess risk.
-- Explored reproduction numbers and vaccination strategies for public health policy.
-
-### 📌 Driving Coupon Acceptance Model
-- Built a classification model to distinguish coupon acceptance patterns using UCI dataset.
-- Analyzed different driving scenarios for customer behavior insights.
-
----
-
-## 🛠️ Skills & Tools
-- **Programming:** Python, MATLAB, R
-- **Modeling:** ODEs, PDEs, SIR models, multi-compartment models
-- **Machine Learning:** Scikit-learn, TensorFlow
+## 🛠️ Tech Stack & Tools  
+- **Programming:** Python | R | MATLAB |
+- **Modeling:** ODE/PDE Systems | Stochastic Processes | PK/PD Modeling  
+- **Libraries:** SciPy | Pandas | NumPy | TensorFlow | PyTorch | Scikitlearn | Keras | API 
+- **Data Analysis:** R (ggplot2, dplyr) | SPSS | Berkeley Madonna  
+- **Collaboration Tools:** Jupyter Notebooks | Unix Shell  | VS code
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Version Control:** Git, GitHub
 
@@ -48,6 +43,11 @@ I'm a **Mathematical and Computational Modeler** with a passion for understandin
 - 🧾 Multi-compartment HBV model: Parameter estimation and sensitivity analysis
 
 ---
+## 🎯 Future Vision  
+🔍 I aim to **bridge mathematical modeling, AI/ML, and healthcare innovation**, contributing to **precision medicine**, **drug development**, and **public health decision-making**.
+
+---
+
 
 ## 📬 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/preeti-dubey)
